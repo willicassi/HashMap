@@ -1,7 +1,6 @@
 # Name: Cassidy Williams
 # Course: CS261 - Data Structures
 # Assignment: Assignment 6
-# Due Date: 3/17/2023
 # Description: HashMap (Portfolio Assignment)
 
 from a6_include import (DynamicArray, LinkedList,
